@@ -5,3 +5,4 @@ streamlit-chat
 nltk
 spacy
 google-api-python-client
+numpy==1.20.3
